@@ -28,20 +28,17 @@ public class 二叉树的镜像 {
         if (root == null){
             return root;
         }
-        mirror(root);
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+        if (root.left != null){
+            mirrorTree(root.left);
+        }
+        if (root.right != null){
+            mirrorTree(root.right);
+        }
+        mirrorTree(root);
         return root;
-    }
-    public static void mirror(TreeNode node){
-        TreeNode temp = node.left;
-        node.left = node.right;
-        node.right = temp;
-        if (node.left != null){
-            mirror(node.left);
-        }
-        if (node.right != null){
-            mirror(node.right);
-        }
-
     }
     public static class TreeNode {
         int val;
