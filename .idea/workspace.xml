@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2af8816-78af-44a6-a334-eef43d923f31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/middle/二叉树的层序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simple/二叉树的深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simple/二叉树的镜像.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simple/二进制中1的个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simple/删除链表的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simple/左旋转字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simple/打印从1到最大的n位数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e2af8816-78af-44a6-a334-eef43d923f31" name="Default Changelist" comment="算法">
+      <change afterPath="$PROJECT_DIR$/target/classes/middle/二叉树的层序遍历$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/middle/二叉树的层序遍历.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/simple/二叉树的深度$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/simple/二叉树的深度.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/simple/二进制中1的个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/simple/删除链表的节点$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/simple/删除链表的节点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/simple/左旋转字符串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/simple/打印从1到最大的n位数.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,8 +181,23 @@
       <workItem from="1620875594722" duration="842000" />
       <workItem from="1621248422504" duration="902000" />
       <workItem from="1621300230980" duration="4251000" />
-      <workItem from="1621306582636" duration="14951000" />
+      <workItem from="1621306582636" duration="15251000" />
     </task>
+    <task id="LOCAL-00001" summary="算法">
+      <created>1621499314585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621499314585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="算法">
+      <created>1621499475095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621499475095</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +214,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
